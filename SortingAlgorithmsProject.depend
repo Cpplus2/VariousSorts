@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593009625 source:c:\users\naimul hp spectre\cpp_projects\sortingalgorithmsproject\main.cpp
+	<iostream>
+	"VariousSorts.h"
+
+1593010047 c:\users\naimul hp spectre\cpp_projects\sortingalgorithmsproject\varioussorts.h
+	<iostream>
+
+1593010263 source:c:\users\naimul hp spectre\cpp_projects\sortingalgorithmsproject\varioussorts.cpp
+	"VariousSorts.h"
+
